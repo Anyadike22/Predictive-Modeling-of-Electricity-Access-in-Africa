@@ -58,8 +58,7 @@ in Africa.
 Data preprocessing was done on the data to clean and transform the data for analysis.
 
   + Data Cleaning: Identifying the extent of missing values and outliers in the dataset. 
-.
-
+![.]
 
 ## Exploratory Data Analysis
 
