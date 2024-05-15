@@ -34,13 +34,13 @@ energy access planning in African countries.
 
 
 ## Objectives:
-    - Analyze historical trends in electricity access across African countries relative to region and
+    1. Analyze historical trends in electricity access across African countries relative to region and
 income.
-    - Identify similarities, differences, and patterns in electricity access among African countries.
+    2.Identify similarities, differences, and patterns in electricity access among African countries.
     
-    - Develop predictive models to forecast future electricity access levels based on regional and
+    3.Develop predictive models to forecast future electricity access levels based on regional and
 income data.
-    - Provide valuable analysis to inform targeted interventions for understanding electricity access
+    4.Provide valuable analysis to inform targeted interventions for understanding electricity access
 in Africa.
 
 # Methodology
