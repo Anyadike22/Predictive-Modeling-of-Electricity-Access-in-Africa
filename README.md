@@ -1,4 +1,4 @@
-# Predictive-Modeling-of-Electricity-Access-in-Africa
+I'm# Predictive-Modeling-of-Electricity-Access-in-Africa
 ![.](pix.jpg)
 
 ## Project Overview
@@ -14,7 +14,7 @@ region.
 According to data analysis and projections from the International Energy Agency (IEA), approximately 110
 million new connections are required annually starting in 2022. However, given the current pace observed
 in recent years, this target remains significantly off track (IEA, 2023). (https://www.iea.org/reports/sdg7-
-data-and-projections). The idea of this project is to analyze to track the trend of electricity access in Africa
+data-and-projections). The idea of this project is to analyze and track the trend of electricity access in Africa
 and attempt to develop predictive modelling of electricity access in Africa to identify significant statistical
 relationships and differences through the forecast and trends.
 
