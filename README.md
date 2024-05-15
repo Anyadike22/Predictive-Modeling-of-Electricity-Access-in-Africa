@@ -1,4 +1,4 @@
-I'm# Predictive-Modeling-of-Electricity-Access-in-Africa
+# Predictive-Modeling-of-Electricity-Access-in-Africa
 ![.](pix.jpg)
 
 ## Project Overview
@@ -64,6 +64,10 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
 
 ## Visualization of Trends in Electricity Access in Africa 
+ + Electricity Access by Income Group
+   ![.](  )
+
+  +
 
 
 ## Predictive Modeling
