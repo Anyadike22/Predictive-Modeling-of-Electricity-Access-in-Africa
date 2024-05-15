@@ -63,6 +63,9 @@ Data preprocessing was done on the data to clean and transform the data for anal
 ## Exploratory Data Analysis
 
 
+## Visualization of Trends in Electricity Access in Africa 
+
+
 ## Predictive Modeling
 
 
