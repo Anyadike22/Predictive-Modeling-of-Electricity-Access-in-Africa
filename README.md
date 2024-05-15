@@ -1,4 +1,5 @@
 # Predictive-Modeling-of-Electricity-Access-in-Africa
+![.]()
 
 ## Project Overview
 
