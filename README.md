@@ -1,32 +1,32 @@
 # Predictive-Modeling-of-Electricity-Access-in-Africa
 
-##Project Overview
+## Project Overview
 
 
-##Problem Statement
+## Problem Statement
 
 
-##Research and Data Collection
-
-
-
-##Data Pre-processing
-
-
-##Exploratory Data Analysis
-
-
-##Predictive Modeling
-
-
-##Results and Discussion
+## Research and Data Collection
 
 
 
-##Code Repository Structure
+## Data Pre-processing
 
 
-##Installation and Usage
+## Exploratory Data Analysis
+
+
+## Predictive Modeling
+
+
+## Results and Discussion
+
+
+
+## Code Repository Structure
+
+
+## Installation and Usage
 
 
 
