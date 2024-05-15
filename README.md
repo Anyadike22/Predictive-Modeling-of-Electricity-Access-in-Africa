@@ -67,7 +67,11 @@ Data preprocessing was done on the data to clean and transform the data for anal
  + Electricity Access by Income Group
    ![.](  )
 
-  +
+  + Historical Trends in Electricity Access by Region and Income Group
+    ![.]( )
+
+  + Income Group Distribution by Region
+    ![.](  )
 
 
 ## Predictive Modeling
