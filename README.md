@@ -91,7 +91,13 @@ In 2030, the graph shows that high-income households will have close to universa
 
   ![.](Electricity_Access_by_Region_Overtime.jpg)
 
-start here
+The graph above shows the progression of electricity access in various regions from 1990 to 2020.
+
+Africa Western and Central (Orange Line): This region’s electricity access has been relatively stable, hovering around 80-90% throughout the period.
+Middle East & North Africa (Blue Line): Starting at around 70% in 1990, there’s been a steady climb in electricity access, reaching close to 90% by 2020.
+Sub-Saharan Africa (Red Line): There’s a notable increase in this region, with access rising from below 20% to about 40%.
+Sub-Saharan Africa (excluding high income) (Green Line): This line shows significant growth, starting from below 20% and surpassing the 60% mark by 2020.
+Overall, the graph indicates that while there has been an improvement in electricity access across all regions, Sub-Saharan Africa (excluding high income) has seen the most substantial growth. However, it still has the lowest access rate compared to the other regions depicted. The Middle East & North Africa region maintains the highest rate of electricity access, consistently above 80% since 1990. The data/graph    suggests a positive trend towards increasing electricity access, which is crucial for development and quality of life.
 
 
 # Historical Trends Analysis 
@@ -114,12 +120,6 @@ However, while there is a clear overall trend of increasing electricity access i
 The data analysis, also reveals that there is a strong connection between electricity access and income group. Regions with high income tend to have higher percentage of electricity access.
 (see figure 4 below)
 
-fix visuals side by side here
-
-
-# Electricity Access: Income Group vs Region
-
-|![](Electricity_Access_by_Income_Group ) | ![](path/to/image2.jpg) |
 
 
  
