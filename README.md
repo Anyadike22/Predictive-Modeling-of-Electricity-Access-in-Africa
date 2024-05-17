@@ -83,7 +83,7 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
 + Electricity Access by Region
 
-  ![.]()
+  ![.](Electricity_Access_by_Region_Overtime.jpg)
 
 
 
