@@ -67,8 +67,8 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
 ## Exploratory Data Analysis
 
- + Descriptive Statistics
-![.](Descriptive Statistics of Electricity Access in Africa.jpg)
+ + Descriptive Statistics of Electricity Access in Africa 
+![.]()
 
   + Electricity Access Percentage by Income Group
 ![.](Electricity_Access_Percentage_by_Income_Group.jpg)
