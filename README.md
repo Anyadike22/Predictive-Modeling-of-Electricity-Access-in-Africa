@@ -107,6 +107,7 @@ The data analysis, also reveals that there is a strong connection between electr
 fix visuals side by side here
 
 
+# Electricity Access: Income Group vs Region
 
     ![.](Historical Trends in Electricity Access by Region and Income Group.jpg)
 
