@@ -79,18 +79,19 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
 ## Electricity Access in Africa 
  + Electricity Access by Income Group
+   ![.](Electricity_Access_by_Income_Group_Overtime.jpg)
 
 The line graph above shows trends in electricity access by income group over time.  
 The general trend is that electricity access has increased for all income groups since 1990. However, the rate of increase has been much slower for low-income groups. This means that the gap in electricity access between rich and poor is widening.
 In 2030, the graph shows that high-income households will have close to universal electricity access, while low-income households will still have a significant number of people without access.
+ 
 
-
-   
-![.](Electricity_Access_by_Income_Group_Overtime.jpg)
 
 + Electricity Access by Region
 
   ![.](Electricity_Access_by_Region_Overtime.jpg)
+
+start here
 
 
 # Historical Trends Analysis 
