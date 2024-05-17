@@ -86,15 +86,6 @@ Data preprocessing was done on the data to clean and transform the data for anal
   ![.](Electricity_Access_by_Region_Overtime.jpg)
 
 
-
- 
-   ![.]( Historical Trends in Electricity Access by Region and Income Group.jpg )
-
-  + Historical Trends in Electricity Access by Region and Income Group
-
-
-
-
 # Historical Trends Analysis 
 
 ![.](Historical_trends_in_electricity_access.jpg)
@@ -120,10 +111,6 @@ fix visuals side by side here
 
 # Electricity Access: Income Group vs Region
 
-
-
-| Image 1 | Image 2 |
-|---|---|
 |![](Electricity_Access_by_Income_Group ) | ![](path/to/image2.jpg) |
 
 
