@@ -118,7 +118,19 @@ fix visuals side by side here
 
  ![.](Electricity_Access_by_Income_Group.jpg)
 
+
+The chart titled Average Electricity Access Percentage by Income Group ,shows that high-income households have the greatest percentage of electricity access, at 100%. This is followed by upper-middle-income households at 78.1%, lower-middle-income households at 68.7%, and low-income households at 34.6%. The income group labeled "Others" has the lowest electricity access percentage, at 51.8%.
+This data suggests a strong correlation between income level and access to electricity. This can be due to a variety of factors, such as the affordability of electricity connection fees and bills, as well as the likelihood of living in an area with reliable electricity infrastructure.
+
+
+
     ![.](Historical Trends in Electricity Access by Region and Income Group.jpg)
+
+
+
+
+
+    
 
   + Income Group Distribution by Region
     ![.](  )
