@@ -70,7 +70,8 @@ Data preprocessing was done on the data to clean and transform the data for anal
  + Descriptive Statistics
 ![.](Descriptive Statistics of Electricity Access in Africa.jpg)
 
-  + Mean Electricity Access
+  + Electricity Access Percentage by Income Group
+![.](Electricity_Access_Percentage_by_Income_Group.jpg)
     
 ![.](Mean_Electricity_Access.jpg)
 
