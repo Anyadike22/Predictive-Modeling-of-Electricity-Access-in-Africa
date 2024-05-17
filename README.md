@@ -70,8 +70,11 @@ Data preprocessing was done on the data to clean and transform the data for anal
  + Descriptive Statistics
 ![.](Descriptive Statistics of Electricity Access in Africa.jpg)
 
+  + Mean Electricity Access
+    
+![.](Mean_Electricity_Access.jpg)
 
-## Visualization of Trends in Electricity Access in Africa 
+## Electricity Access Trend Analysis
  + Electricity Access by Income Group
    ![.]( Historical Trends in Electricity Access by Region and Income Group.jpg )
 
