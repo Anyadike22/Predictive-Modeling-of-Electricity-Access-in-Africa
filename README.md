@@ -80,6 +80,27 @@ Data preprocessing was done on the data to clean and transform the data for anal
    ![.]( Historical Trends in Electricity Access by Region and Income Group.jpg )
 
   + Historical Trends in Electricity Access by Region and Income Group
+
+
+
+
+# Historical Trends Analysis 
+
+ + fix visual here
+
+
+Analyzing the trends in electricity access across different regions and income groups in Africa, we can observe a dynamic yet challenging landscape. The line graph above depicts electricity access spanning  1990 to 2021. It is a visual representation of the progress and disparities in electrification in Africa.
+
+Africa Western and Central (green solid line) shows a commendable steady increase in electricity access. This suggests that initiatives and investments in infrastructure have begun to pay off in that region, although the starting point was quite low. The consistent upward trajectory indicates that more households (percentage of population) are experiencing the benefits of electricity access which can lead to improved quality of life and economic development.
+
+Middle East & North Africa*(red dashed line), with a higher initial electricity access, continues to improve, albeit at a slower rate. This could be due to already having a relatively developed electrical grid, thus the marginal gains appear less dramatic compared to regions starting from a lower baseline.
+
+*Sub-Saharan Africa (excluding high income) (blue dotted line) depicts a consistent rise in electricity access. However, it's evident that the overall levels of access are lower compared to the other regions. This highlights the ongoing struggle to provide electricity to all, especially in rural areas where the infrastructure may be lacking or non-existent.
+
+The shaded areas between the lines suggest that there are overlaps in electricity access percentages among these groups, indicating that no single narrative can fully capture the diverse experiences of electrification across Africa.
+
+However, while there is a clear overall trend of increasing electricity access in Africa, the pace and extent of progress vary widely. The data underscores the need for continued efforts to bridge the electrification gap, particularly in regions that are lagging behind. It also emphasizes the importance of tailored solutions that consider the unique challenges and opportunities within each region and income group. The goal remains to achieve universal electricity access, which is essential for social and economic development.
+
     ![.](Historical Trends in Electricity Access by Region and Income Group.jpg)
 
   + Income Group Distribution by Region
