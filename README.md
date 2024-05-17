@@ -61,7 +61,8 @@ Data preprocessing was done on the data to clean and transform the data for anal
 ![.](IMG-20240505-WA0000.jpg)
 
 
-+ Data Availability 
++ Data Availability
+  
 ![.](Percentage-of-missing-and-non-missing-values.jp)
 
 ## Exploratory Data Analysis
