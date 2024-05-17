@@ -60,6 +60,8 @@ Data preprocessing was done on the data to clean and transform the data for anal
   + Data Cleaning: Identifying the extent of missing values and outliers in the dataset. 
 ![.](IMG-20240505-WA0000.jpg)
 
+![.](pix.jpg)
+
 ## Exploratory Data Analysis
 
 
