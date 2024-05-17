@@ -109,6 +109,11 @@ fix visuals side by side here
 
 # Electricity Access: Income Group vs Region
 
+      income group      |   Regions
+
+
+ ![.](Electricity_Access_by_Income_Group.jpg)
+
     ![.](Historical Trends in Electricity Access by Region and Income Group.jpg)
 
   + Income Group Distribution by Region
