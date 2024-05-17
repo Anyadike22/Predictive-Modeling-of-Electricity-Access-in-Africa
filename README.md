@@ -61,7 +61,7 @@ Data preprocessing was done on the data to clean and transform the data for anal
 ![.](IMG-20240505-WA0000.jpg)
 
 
-![.](Percentage of Missing and .jpg)
+![.](Percentage of Missing and non- missing values.jpg)
 
 ![.](Percentage-of-Missing-and-non- missing-values.jpg)
 
