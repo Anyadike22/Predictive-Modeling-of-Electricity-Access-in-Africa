@@ -81,10 +81,18 @@ Data preprocessing was done on the data to clean and transform the data for anal
  + Electricity Access by Income Group
    ![.](Electricity_Access_by_Income_Group_Overtime.jpg)
 
-The line graph above shows trends in electricity access by income group over time.  
-The general trend is that electricity access has increased for all income groups since 1990. However, the rate of increase has been much slower for low-income groups. This means that the gap in electricity access between rich and poor is widening.
-In 2030, the graph shows that high-income households will have close to universal electricity access, while low-income households will still have a significant number of people without access.
- 
+
+ The graph  shows the progress of electricity access across different income groups from 1990 to 2020.
+
+High Income : This group has maintained nearly 100% access throughout the 30-year span, indicating stable and consistent electricity availability.
+
+Upper Middle Income : Starting with lower access rates, this group has seen a substantial increase, nearing complete access by 2020.
+
+Lower Middle Income :  Similar to the upper middle income, there's been a significant improvement in access over time.
+
+Low Income : Although they began with very limited access, the low-income group has shown considerable progress, with a clear upward trend in the graph.
+
+Overall, the graph illustrates a positive trend where all income groups have improved their electricity access over the past three decades, with high and upper middle-income groups achieving near-universal access by 2020. The most notable progress is seen in the low-income group, which, despite starting from a low base, has made significant strides towards better electricity access. This reflects the ongoing efforts and investments in infrastructure to bridge the energy gap between different socioeconomic classes.
 
 
 + Electricity Access by Region
