@@ -109,7 +109,11 @@ fix visuals side by side here
 
 # Electricity Access: Income Group vs Region
 
-      income group      |   Regions
+
+
+| Image 1 | Image 2 |
+|---|---|
+|![](Electricity_Access_by_Income_Group ) | ![](path/to/image2.jpg) |
 
 
  ![.](Electricity_Access_by_Income_Group.jpg)
