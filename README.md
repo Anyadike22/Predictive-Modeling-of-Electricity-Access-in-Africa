@@ -86,7 +86,7 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
 # Historical Trends Analysis 
 
- + fix visual here
+![.](Historical_trends_in_electricity_access.jpg)
 
 
 Analyzing the trends in electricity access across different regions and income groups in Africa, we can observe a dynamic yet challenging landscape. The line graph above depicts electricity access spanning  1990 to 2021. It is a visual representation of the progress and disparities in electrification in Africa.
