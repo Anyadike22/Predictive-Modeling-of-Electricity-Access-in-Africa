@@ -72,6 +72,8 @@ Data preprocessing was done on the data to clean and transform the data for anal
 
   + Electricity Access Percentage by Income Group
 ![.](Electricity_Access_Percentage_by_Income_Group.jpg)
+
+ + Mean Electricity Access (1990-2021)
     
 ![.](Mean_Electricity_Access.jpg)
 
