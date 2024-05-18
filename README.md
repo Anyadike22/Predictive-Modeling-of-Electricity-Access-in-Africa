@@ -132,13 +132,20 @@ The data analysis, also reveals that there is a strong connection between electr
 ## Similarities, Differences and Patterns
 
 insert visuals here
+
+
  
 
 
 
 ## Predictive Modeling
 
+
 insert visual here
+
+
+
+# Forecasting Electricity Access (2021-2030)
 
 
 ## Results and Discussion
