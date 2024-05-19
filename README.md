@@ -131,7 +131,7 @@ The data analysis, also reveals that there is a strong connection between electr
  
 ## Similarities, Differences and Patterns
 
-![.](mean_electricity_access_by_income_region)
+![.](mean_electricity_access_by_income_region.jpg)
 
 
 
@@ -146,7 +146,9 @@ insert visual here
 # Model Deployment and Forecasting Electricity Access (2021-2030)
 
 
-## Results and Discussion
+
+
+# Results and Discussion
 
 
 
