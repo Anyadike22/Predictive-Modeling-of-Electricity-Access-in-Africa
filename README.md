@@ -1,6 +1,7 @@
 # Predictive-Modeling-of-Electricity-Access-in-Africa
 ![.](pix.jpg)
 
+
 ## Project Overview
 Access to electricity is vital for economic development and societal well-being. Nations with reliable
 electricity tend to exhibit higher productivity, an improved standard of living, and enhanced
