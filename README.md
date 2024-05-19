@@ -131,25 +131,7 @@ The data analysis, also reveals that there is a strong connection between electr
  
 ## Similarities, Differences and Patterns
 
-insert visuals here
-
-The bar graph you've provided illustrates the electricity access percentages for different income groups as of 2021. The graph is indicative of some interesting facts
-
-+ Income Groups:
-  - High Income: Shows universal electricity access with 100% across minimum, mean, and maximum.
-  - Upper Middle Income: Nearly universal access with a mean of 99.6%, a minimum of 55%, and a maximum of 100%.
-    -Lower Middle Income: More varied access with a mean of 68.7%, ranging from a minimum of 42% to a maximum of 100%.
-  - **Low Income**: The least access, with a mean of 34.6%, a minimum of 7.8%, and a maximum of 63.7%.
-  - Others: An average category with a mean access of 50.6%, a minimum of around 51%, and a maximum of 78%.
-
-- **Key Observations:
-  - There is a clear disparity in electricity access between the high-income and low-income groups.
-  - The high-income** and **upper-middle-income** groups enjoy nearly full access, reflecting the strong correlation between income level and infrastructure availability.
-  - The low-income group** has significantly less access, indicating potential challenges such as affordability, lack of infrastructure, or political and economic instability that may hinder the provision of electricity.
-  - The lower-middle-income** group, while better off than the low-income group, still shows considerable variability, suggesting a transition phase with ongoing development.
-  - The Others category likely includes a mix of income levels or regions that do not fit neatly into the other categories, showing moderate access levels.
-
-This graph is a stark representation of the inequality in basic service access across different economic strata. It highlights the need for targeted efforts to improve infrastructure and accessibility, particularly for the lower-income groups, to achieve equitable development and quality of life improvements.
+![.](mean_electricity_access_by_income_region)
 
 
 
