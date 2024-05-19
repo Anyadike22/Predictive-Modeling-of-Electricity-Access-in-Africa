@@ -1,4 +1,4 @@
-# Predictive-Modeling-of-Electricity-Access-in-Africa
+I'm# Predictive-Modeling-of-Electricity-Access-in-Africa
 ![.](pix.jpg)
 
 
@@ -134,6 +134,7 @@ The data analysis, also reveals that there is a strong connection between electr
 
 ![.](mean_electricity_access_by_income_region.jpg)
 
+![.](Income_groups_regions_counts_percent.jpg)
 
 
 
